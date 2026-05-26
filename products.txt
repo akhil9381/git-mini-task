@@ -3,3 +3,5 @@
 3,Sony WH-1000XM5 Headphones,349.99,15
 4,Dell XPS 13 Laptop,999.99,10
 5,Instant Pot Duo 7-in-1,89.99,50
+6,iphones duo 9-10-in-1 100,9.99
+7,ps5 pro 599.usd
