@@ -1,0 +1,5 @@
+1,Apple iPhone 15,799.00,25
+2,Samsung Galaxy S24,749.99,30
+3,Sony WH-1000XM5 Headphones,349.99,15
+4,Dell XPS 13 Laptop,999.99,10
+5,Instant Pot Duo 7-in-1,89.99,50

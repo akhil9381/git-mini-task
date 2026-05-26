@@ -1,0 +1,5 @@
+ORDER001,2024-01-15,PROD001,John Smith,john@email.com,2,29.99
+ORDER002,2024-01-15,PROD002,Jane Doe,jane@email.com,1,49.99
+ORDER003,2024-01-16,PROD003,Bob Johnson,bob@email.com,3,15.99
+ORDER004,2024-01-16,PROD001,Alice Williams,alice@email.com,1,29.99
+ORDER005,2024-01-17,PROD004,Charlie Brown,charlie@email.com,5,9.99
